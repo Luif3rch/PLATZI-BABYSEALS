@@ -1,0 +1,191 @@
+/* =================================== */
+/*  General
+/* =================================== */
+
+/* Items */
+.nft-item{
+	.nft-item-like{
+	border-radius:4px;
+	background:none;
+	border:none;
+	padding:4px 8px;
+	display:inline-block;
+	@include transition(all .3s ease);
+	&:hover{
+		background:#e9ecef;
+		color:#212529 !important;
+		@include transition(all .3s ease);
+		}
+	}
+	.nft-item-link{
+		font-size:13px;
+		width:28px;
+		height:28px;
+		line-height:28px;
+		text-align:center;
+		border-radius:50%;
+		display:inline-block;
+		@include transition(all .3s ease);
+		&:hover{
+			background:#e9ecef;
+			color:#212529!important;
+			@include transition(all .3s ease);
+		}
+	}
+	.portrait {
+		height: 100% !important;
+		width: auto !important;
+		-webkit-transition-property: none;
+		-moz-transition-property: none;
+		-o-transition-property: none;
+		transition-property: none;
+	}
+}
+
+.nft-item-wrap{
+	width: 100%;
+	-webkit-transition-property: none;
+	-moz-transition-property: none;
+	-o-transition-property: none;
+	transition-property: none;
+}
+.nft-item .nft-item-img{
+	-webkit-transition-property: none;
+	-moz-transition-property: none;
+	-o-transition-property: none;
+	transition-property: none;
+}
+
+.card-img-overlay-bg{background:rgba(0,0,0,0.2);}
+
+/* Load More Items */
+.load-item{display:none;}
+
+
+/* Countdown */
+.blink_me {
+  animation: blinker 1s ease-in-out 0s infinite normal none running;
+  margin:0 2px;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+/* Thumb */
+.img-thumb{width:50px!important; height: auto;}
+.img-thumb-sm{width:40px!important; height: auto;}
+.img-thumb-lg{width:65px!important; height: auto;}
+
+/* Copy Text */
+#wallet-id-inner{width:100px;}
+
+
+/* Activity */
+.activity-thumb {
+  position: relative;
+  width: 78px;
+  .activity-icon {
+    background:$primary-color;
+	font-size: 12px;
+    width: 32px;
+    height: 32px;
+    border-radius: 100%;
+    position: absolute;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+  }
+}
+.activity-listings{
+	background-color:$blue!important;
+}
+.activity-like{
+	background-color:$yellow!important;
+}
+.activity-bid{
+	background-color:$cyan!important;
+}
+.activity-transfer{
+	background-color:$purple!important;
+}
+.activity-sale{
+	background-color:$orange!important;
+}
+.activity-sale-remove{
+	background-color:$dark!important;
+}
+.activity-followings{
+	background-color:$success!important;
+}
+
+
+
+/* Details Page */
+.price-chain{width:32px;}
+
+.nft-like-btn{
+	border-radius:4px;
+	background:none;
+	border:none;
+	padding:0.3rem 0.8rem;
+	display:inline-block;
+	@include transition(all .3s ease);
+	&:hover{
+		background:#e9ecef;
+		color:#212529 !important;
+		@include transition(all .3s ease);
+	}
+}
+.nft-link-btn{
+	border-radius:4px;
+	padding:0.3rem 0.8rem;
+	text-align:center;
+	display:inline-block;
+	@include transition(all .3s ease);
+	&:hover{
+		background:#e9ecef;
+		color:#212529!important;
+		@include transition(all .3s ease);
+	}
+}
+
+
+/* File Upload */
+.upload-file-wrap{border:2px dashed #dee2e6;}
+
+
+/* Profile */
+
+.profile-thumb {
+  position: relative;
+  width: 160px;
+  height: 160px;
+  display: inline-block;
+}
+.btn-upload {
+	font-size: 16px;
+	width: 37px;
+	height: 37px;
+	border-radius: 100%;
+	display: -ms-flexbox !important;
+	display: flex !important;
+	-ms-flex-pack: center !important;
+	justify-content: center !important;
+	-ms-flex-align: center !important;
+	align-items: center !important;
+	.custom-file-input {
+	  cursor: pointer;
+	  position:relative;
+	  z-index: 2;
+	  width: 100%;
+	  height: calc(1.5em + .75rem + 2px);
+	  margin: 0;
+	  opacity: 0;
+	}
+}
