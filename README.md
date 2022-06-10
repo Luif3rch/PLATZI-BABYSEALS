@@ -2,22 +2,29 @@
 <p align="center">
  <img width="auto" src="https://subtle-sable-fbd574.netlify.app/images/logo.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">PROYECTO BABY SEALS </h2>
+ 
  <p align="center">Visita nuestro link de produccion e interactua con nuestro repositorio</p>
   <p align="center">
-💚gracias plazti y fundacion celo</p>
+💚Gracias plazti & Celo Foundation</p>
 </p>
 <p>
 
  <br>
-<a href="https://ibb.co/WGrrYGy"><img src="https://i.ibb.co/Kbtt3bq/collage.jpg"  width="600" alt="collage" border="0"></a>
+   <p align="center">
+<a href="https://ibb.co/WGrrYGy"><img src="https://i.ibb.co/Kbtt3bq/collage.jpg"  width="500" alt="collage" border="0"></a>
+</p>
+
  <br>
 </a>
 
 Queremos crear un proyecto con una página para mintear NFT de foquitas bebe con la finalidad de donar el dinero recaudado a organizaciones ambientales los diferentes NFT creados proporcionarán acceso en un futuro(en construcción) a una comunidad para ir a lugares a colaborar en la lucha ambienta. Adicional existirá un airdrop para los primeros visitantes de la página.
 
-integrantes:
+INTEGRANTES:
+
 LUIS HERRERA
+
 ELVIA
+
 EMILY
 
 </p>
@@ -82,5 +89,8 @@ Platzi
 Celo Foundation
 
 https://www.youtube.com/c/HashLipsNFT
+
+
+
 
 
