@@ -1,0 +1,31 @@
+{
+  "name": "BABY SEALS #16",
+  "description": "PLATZI CELO - RETOS",
+  "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/16.png",
+  "dna": "3e35f806649376899b40083ee361c7737de46fd1",
+  "edition": 16,
+  "date": 1654835978669,
+  "attributes": [
+    {
+      "trait_type": "Fondo_",
+      "value": "fondo_amarillo"
+    },
+    {
+      "trait_type": "Cuerpo_",
+      "value": "cuerpo_blanco"
+    },
+    {
+      "trait_type": "Accesorios_",
+      "value": "acc_bufanda"
+    },
+    {
+      "trait_type": "Bocas_",
+      "value": "boca_w"
+    },
+    {
+      "trait_type": "Ojos_",
+      "value": "ojos_fuego"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

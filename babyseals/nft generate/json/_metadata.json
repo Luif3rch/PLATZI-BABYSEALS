@@ -1,0 +1,1862 @@
+[
+  {
+    "name": "BABY SEALS #1",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/1.png",
+    "dna": "72376e5519094e05083e6470b3c2744fe2aeedd2",
+    "edition": 1,
+    "date": 1654835976959,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_rojo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_amarillo"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_vaquero"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_triste"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tristes"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #2",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/2.png",
+    "dna": "a701dc81d9267d04635d21b1af68c045887136f1",
+    "edition": 2,
+    "date": 1654835977104,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_verde"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_blanco"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_flor"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_lengua"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_fuego"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #3",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/3.png",
+    "dna": "f734aca3344dca42084d639a50dda215a07f6330",
+    "edition": 3,
+    "date": 1654835977206,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_verde"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_rosado"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_vaquero"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_lengua"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_corazon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #4",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/4.png",
+    "dna": "cbe6c07c7d2dd033f18ea9a2b4a0035214f449d8",
+    "edition": 4,
+    "date": 1654835977315,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_morado"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_blanco"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_oso"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_w"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_brillante"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #5",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/5.png",
+    "dna": "32edc2b764ea314dbe8fd51d18a552c49751b569",
+    "edition": 5,
+    "date": 1654835977496,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_rojo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_azul"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_oso"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_triste"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tristes"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #6",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/6.png",
+    "dna": "db472ad93d80e80caa5b0099b59f4b6d2a4f1a04",
+    "edition": 6,
+    "date": 1654835977609,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_morado"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_rosado"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_oso"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_triste"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tiernos"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #7",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/7.png",
+    "dna": "9bf25db96598caa17148bb5b8eea60b45fa38f13",
+    "edition": 7,
+    "date": 1654835977712,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_azul"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_verde"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_bufanda"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_lengua"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tristes"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #8",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/8.png",
+    "dna": "57629e73cdfcedf775d72f45071675d42a08138c",
+    "edition": 8,
+    "date": 1654835977812,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_amarillo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_rosado"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_vaquero"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_vampiro"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_corazon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #9",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/9.png",
+    "dna": "386212b2de11a64a7bd051d0b63c826056c72fc8",
+    "edition": 9,
+    "date": 1654835977917,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_azul"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_rosado"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_oso"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_triste"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_corazon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #10",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/10.png",
+    "dna": "7b02778034d422b9d7b0918e8839cfe3c44e3deb",
+    "edition": 10,
+    "date": 1654835978026,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_azul"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_verde"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_oso"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_lengua"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tristes"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #11",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/11.png",
+    "dna": "3f0e5f636d953622bdf3b519cc1b37884e42589f",
+    "edition": 11,
+    "date": 1654835978132,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_rojo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_verde"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_bufanda"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_triste"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tiernos"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #12",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/12.png",
+    "dna": "c8da760085d5c1537f323261e7c700516336e244",
+    "edition": 12,
+    "date": 1654835978243,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_verde"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_amarillo"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_bufanda"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_w"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_corazon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #13",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/13.png",
+    "dna": "19d79582df9c6a676bb94536977e4663b946113a",
+    "edition": 13,
+    "date": 1654835978343,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_verde"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_amarillo"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_oso"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_normal"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tristes"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #14",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/14.png",
+    "dna": "095f3f7606ed2026522d83994f605e47fc4f8051",
+    "edition": 14,
+    "date": 1654835978437,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_azul"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_rosado"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_oso"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_vampiro"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_fuego"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #15",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/15.png",
+    "dna": "77a9c2c453a04f032d03e268e160cef854c596af",
+    "edition": 15,
+    "date": 1654835978552,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_rojo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_rosado"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_oso"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_triste"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_fuego"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #16",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/16.png",
+    "dna": "3e35f806649376899b40083ee361c7737de46fd1",
+    "edition": 16,
+    "date": 1654835978669,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_amarillo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_blanco"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_bufanda"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_w"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_fuego"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #17",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/17.png",
+    "dna": "3af8c0870cf95f8c7c28fb2c3d878840c9ab40db",
+    "edition": 17,
+    "date": 1654835978766,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_rojo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_amarillo"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_oso"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_normal"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tiernos"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #18",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/18.png",
+    "dna": "3b24408801b89a77de6e96b05e9f2cb2b3f4d252",
+    "edition": 18,
+    "date": 1654835978873,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_rojo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_blanco"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_vaquero"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_lengua"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tristes"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #19",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/19.png",
+    "dna": "1eb27d8b003cc3f118aa1cfed88c826f32c9d5d5",
+    "edition": 19,
+    "date": 1654835978967,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_amarillo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_blanco"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_vaquero"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_vampiro"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tristes"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #20",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/20.png",
+    "dna": "4156b1d9b14617a251b70d530173cd74112e3c37",
+    "edition": 20,
+    "date": 1654835979056,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_verde"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_azul"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_oso"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_normal"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tristes"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #21",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/21.png",
+    "dna": "dc7beb62e9c68bb7ac69dde742a72270c7e44edf",
+    "edition": 21,
+    "date": 1654835979131,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_azul"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_blanco"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_flor"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_lengua"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_corazon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #22",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/22.png",
+    "dna": "bfcd23996b22a36577a95077c588d1082d894a06",
+    "edition": 22,
+    "date": 1654835979217,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_morado"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_verde"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_bufanda"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_w"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tiernos"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #23",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/23.png",
+    "dna": "e3957fc74341ee3b6b4faa5072f07e2a668d094d",
+    "edition": 23,
+    "date": 1654835979298,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_amarillo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_verde"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_vaquero"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_normal"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_corazon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #24",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/24.png",
+    "dna": "1f8e719b1d95e53e29e1dc5fdba90f90ac507ea0",
+    "edition": 24,
+    "date": 1654835979381,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_azul"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_blanco"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_flor"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_normal"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_fuego"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #25",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/25.png",
+    "dna": "cf7429b667aaa0e968dc579880943017a4bef13c",
+    "edition": 25,
+    "date": 1654835979474,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_amarillo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_rosado"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_vaquero"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_triste"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_corazon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #26",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/26.png",
+    "dna": "168e68a5478cedb77f4b70ccf40caba27d0e8032",
+    "edition": 26,
+    "date": 1654835979553,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_morado"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_amarillo"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_bufanda"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_vampiro"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tristes"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #27",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/27.png",
+    "dna": "066c77fc699340e629b02ae8b3e70fa3aeec8577",
+    "edition": 27,
+    "date": 1654835979623,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_verde"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_amarillo"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_flor"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_w"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_corazon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #28",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/28.png",
+    "dna": "192dda0724168d7eec4826d098c996a860acffac",
+    "edition": 28,
+    "date": 1654835979726,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_morado"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_verde"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_flor"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_normal"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_fuego"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #29",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/29.png",
+    "dna": "b50182962148ace7a130ebf04f79bfb7477fd0d9",
+    "edition": 29,
+    "date": 1654835979802,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_verde"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_azul"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_flor"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_triste"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_fuego"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #30",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/30.png",
+    "dna": "ea93089d71f38af56cff819d34e1b2539fa88d76",
+    "edition": 30,
+    "date": 1654835979889,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_amarillo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_rosado"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_bufanda"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_normal"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tristes"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #31",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/31.png",
+    "dna": "29a0bb8dd2b43cd3b4163c4d970460c9c29dece1",
+    "edition": 31,
+    "date": 1654835979962,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_verde"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_blanco"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_vaquero"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_vampiro"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tristes"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #32",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/32.png",
+    "dna": "074fdf809f78644b83c89c00ac21f9cd4dfe20fe",
+    "edition": 32,
+    "date": 1654835980040,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_rojo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_rosado"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_flor"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_lengua"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_brillante"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #33",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/33.png",
+    "dna": "362c85aef10cf1cb4fa6bdc80df14323a9f2d4f9",
+    "edition": 33,
+    "date": 1654835980155,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_amarillo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_azul"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_flor"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_normal"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_brillante"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #34",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/34.png",
+    "dna": "8a046277a82a327fcbc68335c8be5c67b227dd24",
+    "edition": 34,
+    "date": 1654835980304,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_verde"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_verde"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_flor"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_vampiro"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tiernos"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #35",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/35.png",
+    "dna": "7b4ca514ca196de832015cd86843a633eb731700",
+    "edition": 35,
+    "date": 1654835980372,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_verde"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_verde"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_bufanda"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_normal"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tristes"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #36",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/36.png",
+    "dna": "009278c8982250886d8107276dbf4e1208645956",
+    "edition": 36,
+    "date": 1654835980448,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_verde"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_azul"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_bufanda"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_vampiro"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_brillante"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #37",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/37.png",
+    "dna": "4281de0fc25924232bee722cd1050ca835b59631",
+    "edition": 37,
+    "date": 1654835980515,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_rojo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_amarillo"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_oso"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_triste"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tristes"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #38",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/38.png",
+    "dna": "444b6037f0d61bb349045bed2b1005dab6a06a21",
+    "edition": 38,
+    "date": 1654835980583,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_amarillo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_blanco"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_flor"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_normal"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_fuego"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #39",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/39.png",
+    "dna": "c34ca3866351cf3898cebf8f1911d9a102d0dee1",
+    "edition": 39,
+    "date": 1654835980652,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_rojo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_rosado"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_vaquero"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_normal"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tiernos"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #40",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/40.png",
+    "dna": "c0ca58b80a7f1e2bd55c213753f1ba0e10a7c825",
+    "edition": 40,
+    "date": 1654835980718,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_rojo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_rosado"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_oso"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_w"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_brillante"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #41",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/41.png",
+    "dna": "a48c7fbbf9e75644762f69680ff65fabac64a7be",
+    "edition": 41,
+    "date": 1654835980839,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_morado"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_verde"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_vaquero"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_triste"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tiernos"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #42",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/42.png",
+    "dna": "4538b082eeef835d276e498a449f5f7eaebf669a",
+    "edition": 42,
+    "date": 1654835980923,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_morado"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_blanco"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_sombrero"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_vampiro"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tiernos"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #43",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/43.png",
+    "dna": "710b2d58faa658a9bfc8d165ce8f0bdfa7d44510",
+    "edition": 43,
+    "date": 1654835980989,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_verde"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_azul"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_oso"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_normal"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_fuego"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #44",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/44.png",
+    "dna": "2e80fa50005c7c3af7f1a2984fd0d70289da252e",
+    "edition": 44,
+    "date": 1654835981059,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_rojo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_verde"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_flor"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_lengua"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_fuego"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #45",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/45.png",
+    "dna": "31e350e0dd2407a15678ca00c045531fd88a7aa3",
+    "edition": 45,
+    "date": 1654835981129,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_amarillo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_amarillo"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_vaquero"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_triste"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tiernos"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #46",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/46.png",
+    "dna": "fe397d103dbc9e4e0405939b6a0d90ca31908987",
+    "edition": 46,
+    "date": 1654835981201,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_rojo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_rosado"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_sombrero"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_lengua"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_brillante"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #47",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/47.png",
+    "dna": "ad67943eb0776ef16b690fb5089d3c902fee5684",
+    "edition": 47,
+    "date": 1654835981268,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_verde"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_amarillo"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_vaquero"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_triste"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_corazon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #48",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/48.png",
+    "dna": "fdc218b0554886326ebc9a45ee02da0d9fddf116",
+    "edition": 48,
+    "date": 1654835981340,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_morado"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_amarillo"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_bufanda"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_vampiro"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_fuego"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #49",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/49.png",
+    "dna": "f598a1115df83edbbd4a7c74413e7cb7486332a9",
+    "edition": 49,
+    "date": 1654835981405,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_morado"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_blanco"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_oso"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_lengua"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_corazon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #50",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/50.png",
+    "dna": "4783f6cb0ece9760f0a49c7eca6b7f99b5ad634f",
+    "edition": 50,
+    "date": 1654835981519,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_verde"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_azul"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_vaquero"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_w"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_fuego"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #51",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/51.png",
+    "dna": "b82f247c0d4160803d87c6d96017d90f29c2c727",
+    "edition": 51,
+    "date": 1654835981585,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_morado"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_verde"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_flor"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_w"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tristes"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #52",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/52.png",
+    "dna": "07c12300dc84ffce4aa58c3f91012d1142d6a8d4",
+    "edition": 52,
+    "date": 1654835981665,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_verde"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_blanco"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_sombrero"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_lengua"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_corazon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #53",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/53.png",
+    "dna": "53c502e147607daa7963a6d34fb8251c03a620ad",
+    "edition": 53,
+    "date": 1654835981737,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_rojo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_verde"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_flor"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_lengua"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tiernos"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #54",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/54.png",
+    "dna": "f3be9b3a9242692f48f23ad1dfead512583e7639",
+    "edition": 54,
+    "date": 1654835981811,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_verde"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_azul"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_sombrero"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_w"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tristes"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #55",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/55.png",
+    "dna": "98d1f160b6639c7d5e68270b1f388d17d7bc6099",
+    "edition": 55,
+    "date": 1654835981879,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_verde"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_blanco"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_sombrero"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_lengua"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tristes"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #56",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/56.png",
+    "dna": "551900268705c719613bcc0b21dacb68f4b529bd",
+    "edition": 56,
+    "date": 1654835981947,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_amarillo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_blanco"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_flor"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_vampiro"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_brillante"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #57",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/57.png",
+    "dna": "311bc35eab19706bd036fac57e187fd6df1bede9",
+    "edition": 57,
+    "date": 1654835982023,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_amarillo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_amarillo"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_flor"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_triste"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_brillante"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #58",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/58.png",
+    "dna": "f85a7f625ebe77cc16b78fc48d82aac5d5c0053a",
+    "edition": 58,
+    "date": 1654835982092,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_amarillo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_azul"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_flor"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_vampiro"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tiernos"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #59",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/59.png",
+    "dna": "d0e46f3af71ccc917bcb15df23a1e19a2330a769",
+    "edition": 59,
+    "date": 1654835982159,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_azul"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_amarillo"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_flor"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_triste"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_corazon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABY SEALS #60",
+    "description": "PLATZI CELO - RETOS",
+    "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/60.png",
+    "dna": "59ef3c851339d7ea5f0e122fbf32caae2d8584be",
+    "edition": 60,
+    "date": 1654835982239,
+    "attributes": [
+      {
+        "trait_type": "Fondo_",
+        "value": "fondo_amarillo"
+      },
+      {
+        "trait_type": "Cuerpo_",
+        "value": "cuerpo_verde"
+      },
+      {
+        "trait_type": "Accesorios_",
+        "value": "acc_bufanda"
+      },
+      {
+        "trait_type": "Bocas_",
+        "value": "boca_w"
+      },
+      {
+        "trait_type": "Ojos_",
+        "value": "ojos_tristes"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

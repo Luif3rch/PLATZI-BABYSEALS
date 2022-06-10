@@ -1,0 +1,31 @@
+{
+  "name": "BABY SEALS #14",
+  "description": "PLATZI CELO - RETOS",
+  "image": "ipfs://QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U/14.png",
+  "dna": "095f3f7606ed2026522d83994f605e47fc4f8051",
+  "edition": 14,
+  "date": 1654835978437,
+  "attributes": [
+    {
+      "trait_type": "Fondo_",
+      "value": "fondo_azul"
+    },
+    {
+      "trait_type": "Cuerpo_",
+      "value": "cuerpo_rosado"
+    },
+    {
+      "trait_type": "Accesorios_",
+      "value": "acc_oso"
+    },
+    {
+      "trait_type": "Bocas_",
+      "value": "boca_vampiro"
+    },
+    {
+      "trait_type": "Ojos_",
+      "value": "ojos_fuego"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
