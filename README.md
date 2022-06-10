@@ -53,7 +53,9 @@ es el front de la aplicacion para mintear los nfts
 
 
 https://github.com/platzi/curso-web3js-dapps
+
 https://github.com/OpenZeppelin/openzeppelin-contracts
+
 https://github.com/HashLips
 
 
