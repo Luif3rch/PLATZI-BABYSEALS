@@ -8,11 +8,12 @@
 </p>
 <p>
 
-<img src="https://subtle-sable-fbd574.netlify.app/images/items/index.gif" width="200" />
+ <br>
+<a href="https://ibb.co/WGrrYGy"><img src="https://i.ibb.co/Kbtt3bq/collage.jpg"  width="600" alt="collage" border="0"></a>
+ <br>
 </a>
 
-Queremos crear un proyecto con una pagina para mintear NFT de foquitas bebe con la finalidad de donar el dinero recaudado a organizaciones ambientales los diferentes NFT creados proporcionaran acceso en un futuro(en contruccion) a una comunidad para ir a lugares a colaborar en la lucha ambienta.
-Adicional existira un airdrop para los primeros visitantes de la pagina.
+Queremos crear un proyecto con una página para mintear NFT de foquitas bebe con la finalidad de donar el dinero recaudado a organizaciones ambientales los diferentes NFT creados proporcionarán acceso en un futuro(en construcción) a una comunidad para ir a lugares a colaborar en la lucha ambienta. Adicional existirá un airdrop para los primeros visitantes de la página.
 
 integrantes:
 LUIS HERRERA
@@ -23,6 +24,9 @@ EMILY
 
 # WEB PROYECTO
 
+ <br>
+<img src="https://subtle-sable-fbd574.netlify.app/images/items/index.gif" width="200" />
+ <br> 
 https://subtle-sable-fbd574.netlify.app/
 
 # Herramientas
@@ -74,7 +78,9 @@ https://alfajores-blockscout.celo-testnet.org/address/0x97896Bf38428B9a54f63C9Ce
 # AGRADECIMIENTOS
 
 Platzi
-celofoundation
 
+Celo Foundation
+
+https://www.youtube.com/c/HashLipsNFT
 
 
