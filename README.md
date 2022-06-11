@@ -36,6 +36,13 @@ EMILY
  <br> 
 https://subtle-sable-fbd574.netlify.app/
 
+
+
+
+SI TIENES PROBLEMAS PARA VISUALIZAR QUE NFT TE SALIO PUEDES VALIDAR CON EL ID DEL TOKEN Y ENTRAR AQUI
+
+https://gateway.pinata.cloud/ipfs/QmU2tnMBmudfbPjNghKUgmLdJB1WczLjttVmf6ShmqSi8U
+
 # Herramientas
 
 Hardhat
