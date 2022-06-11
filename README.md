@@ -84,10 +84,9 @@ Token:  0x9de902f7128196690b793A73bAF00A8AC728D493
 https://alfajores-blockscout.celo-testnet.org/address/0x9de902f7128196690b793A73bAF00A8AC728D493/transactions
 
 
-NFT:   0x97896Bf38428B9a54f63C9Ce78d21FbEEdDa4B67
+NFT:   0x6a65CFF0658b3467F336Bc2d518CB58CD342E3f9
 
 https://alfajores-blockscout.celo-testnet.org/address/0x97896Bf38428B9a54f63C9Ce78d21FbEEdDa4B67/transactions
-
 
 # AGRADECIMIENTOS
 
