@@ -12,21 +12,21 @@ const CollectionConfig: CollectionConfigInterface = {
   contractName: 'BabySeals',
   tokenName: 'BabySeals',
   tokenSymbol: 'BS',
-  hiddenMetadataUri: 'https://ipfs.io/ipfs/QmTJKqRnMHqf2NtmYKEcHfKvQg28cRfvdiBzAjk1qawsJA/hidden.json',
+  hiddenMetadataUri: 'https://ipfs.io/ipfs/QmTJKqRnMHqf2NtmYKEcHfKvQg28cRfvdiBzAjk1qawsJA/',
   maxSupply: 100, /// LOS NFT GENERADOS
   whitelistSale: {
     price: 0.1,
     maxMintAmountPerTx: 1,
   },
   preSale: {
-    price: 0.3,
+    price: 0.2,
     maxMintAmountPerTx: 2,
   },
   publicSale: {
-    price: 0.5,
+    price: 0.3,
     maxMintAmountPerTx: 5,
   },
-  contractAddress: "0x6a65CFF0658b3467F336Bc2d518CB58CD342E3f9",
+  contractAddress: "0x648B5b5CEd33b4CDBa10d9aa059FffA8156085B6",
   marketplaceIdentifier: 'my-nft-token',
   marketplaceConfig: Marketplaces.openSea,
   whitelistAddresses,
