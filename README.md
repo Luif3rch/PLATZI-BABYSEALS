@@ -62,12 +62,13 @@ generador de NFTS con imagenes png crea y exporta los nfts con json meta datos y
 es el front de la aplicacion para mintear los nfts
 
 1. yarn
-2. yarn deploy --network alfajores (cambiar segun red a desplegar)
+2. yarn dev-server
 
 # smart-contract
 
 1. yarn
-2. yarn dev-server
+2. yarn deploy --network alfajores (cambiar segun red a desplegar)
+
 
 # Material utilizado
 
